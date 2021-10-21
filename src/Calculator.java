@@ -2,7 +2,7 @@ public class Calculator {
    //instance variables-without static keyword
     int a=20;
     int b=10;
-    public void add() // calling instance method
+    gitpublic void add() // calling instance method
  {System.out.println(a+b);}public void subs()
  {
      System.out.println(a-b);
